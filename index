@@ -7,6 +7,6 @@
 <body>
 <h1> Pet Adoption in Mountgomery County of Maryland </h1>
 <table>
-<tr><th> Animal Type </th>
+<tr><th> Animal Type </th> <th> Age </th> <th> Size </th> <th> Breed </th> </tr>
 </table>
 </body>
