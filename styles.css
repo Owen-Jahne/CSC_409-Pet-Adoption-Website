@@ -1,12 +1,38 @@
 /* Pet Adoption styles */
 
 h1 {
-  color: green;
-  background-color: #304050;
-  font-size: xx-large;
-  text-align: center;
-  margin-bottom: 10px;
-  margin-top: 20px;
-  padding-top: 5px;
-  padding-bottom: 5px;
+    color: green;
+    font-size: xx-large;
+    text-align: center;
+    margin-bottom: 10px;
+    margin-top: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+  }
+  
+table {
+    margin-left: 40px;
+    margin-top: 40px;
+  /*adjust margin needed*/
+    border-style: solid;
+    border-width: thin;
+    border-collapse: collapse;
 }
+
+th {
+    color: blue;
+    background-color: #ffffff;
+  }
+  
+  td {
+    border-style: solid;
+    border-width: thin;
+    padding-left: 2.5em;
+    padding-right: 2.5em;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+  }
+  
+  td.right {
+    text-align: right;
+  }
