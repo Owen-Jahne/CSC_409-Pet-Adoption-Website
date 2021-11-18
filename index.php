@@ -308,7 +308,7 @@ else
 }
 
 print("<table>\n");
-print("<tr><th>Animal Type</th><th>Age by Months</th><th>Pet Size</th><th>Breed</th><th>Color</th><th>Sex</th></tr>\n");
+print("<tr><th>Animal Type</th><th>Age by Months</th><th>Pet Size</th><th>Breed</th><th>Color</th><th>Sex</th><th>Pet Images</th></tr>\n");
 
 
 foreach ($results as $value)
@@ -319,7 +319,8 @@ foreach ($results as $value)
 	<td>".$value['Pet_Size']."</td>
 	<td>".$value['Breed']."</td>
 	<td>".$value['Color']."</td>
-	<td>".$value['Sex']."</td>
+	<td>".$value['Sex']."</td> 
+	<td>".$value['Pet_Images']."</td> 
 	</tr>\n");
 }
 
