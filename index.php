@@ -8,7 +8,7 @@
 
 <body>
 	<h1>Adoptable Pets</h1>
-	<p class = "source">Source: <a href="https://catalog.data.gov/dataset/adoptable-pets">Data.gov</a></p>
+	<p class = "source">Source: <a href="https://catalog.data.gov/dataset/adoptable-pets" target="_blank">Data.gov</a></p>
 	
 
 <?php 
