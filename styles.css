@@ -14,15 +14,16 @@ h1 {
 p1 {
     color: black;
     text-align: center;
+    font-family: Times New Roman, Times, Serif;
     font-size: 24px;
 }
 
 p2 {
     color: black;
     text-align: center;
+    font-family: Times New Roman, Times, Serif;
     font-size: 24px;
 }
-
   
 table {
     margin-left: 40px;
